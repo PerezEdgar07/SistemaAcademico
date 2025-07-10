@@ -5,7 +5,10 @@ package sistemaacademico.Decano;
 public interface IDecanos {
 
 
-    public boolean verificarCedula();
-    public String agregarDecanos();
+   
+   String agregarDecano(Decano decano);
+    boolean eliminarDecano(String cedula);
+    boolean actualizarDecano(Decano decano);
+    String guardarDecanos();
 }
 

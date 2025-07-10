@@ -3,9 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/EDGAR/Documents/NetBeansProjects/SistemaAcademico/src/sistemaacademico/Decano/Decano.java</file>
-            <file>file:/C:/Users/EDGAR/Documents/NetBeansProjects/SistemaAcademico/src/sistemaacademico/Decano/Decanos.java</file>
-            <file>file:/C:/Users/EDGAR/Documents/NetBeansProjects/SistemaAcademico/src/sistemaacademico/Decano/IDecanos.java</file>
+            <file>file:/C:/Users/EDGAR/Documents/NetBeansProjects/SistemaAcademico/src/sistemaacademico/Vistas/VistaDecano.java</file>
+            <file>file:/C:/Users/EDGAR/Documents/NetBeansProjects/SistemaAcademico/src/sistemaacademico/Controladores/ControladorDecano.java</file>
+            <file>file:/C:/Users/EDGAR/Documents/NetBeansProjects/SistemaAcademico/src/sistemaacademico/Vistas/VistaProfesor.java</file>
+            <file>file:/C:/Users/EDGAR/Documents/NetBeansProjects/SistemaAcademico/src/sistemaacademico/Controladores/ControladorProfesor.java</file>
         </group>
     </open-files>
 </project-private>

@@ -1,4 +1,5 @@
 
+
 package sistemaacademico.Decano;
 
 import sistemaacademico.PersonalAcademico.PersonalAcademico;
@@ -25,10 +26,13 @@ public class Decano extends PersonalAcademico {
     public String toString() {
         return "Decano{" +super.toString()+ "nivel=" + nivel +super.toString()+ '}';
     }
+
+    public String getNombre() {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
     
     
     
 }
 
     
-

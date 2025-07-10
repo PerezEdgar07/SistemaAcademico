@@ -19,6 +19,11 @@ public  class Persona {
         this.correoPersonal = correoPersonal;
         this.cedula = cedula;
     }
+
+    public String getCedula() {
+        return cedula;
+    }
+    
   
 
     @Override
